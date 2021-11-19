@@ -10,6 +10,7 @@ import './css/index.css'
 
 import App from './App'
 
+
 //renderiza la app
 ReactDOM.render(
   <React.StrictMode>
