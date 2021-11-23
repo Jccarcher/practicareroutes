@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/practicaRoutes/static/css/main.4f7ab489.chunk.css",
+    "main.js": "/practicaRoutes/static/js/main.0999c73b.chunk.js",
+    "main.js.map": "/practicaRoutes/static/js/main.0999c73b.chunk.js.map",
+    "runtime-main.js": "/practicaRoutes/static/js/runtime-main.a7f8224c.js",
+    "runtime-main.js.map": "/practicaRoutes/static/js/runtime-main.a7f8224c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/practicaRoutes/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.513ec2f6.chunk.js": "/practicaRoutes/static/js/2.513ec2f6.chunk.js",
+    "static/js/2.513ec2f6.chunk.js.map": "/practicaRoutes/static/js/2.513ec2f6.chunk.js.map",
+    "index.html": "/practicaRoutes/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/practicaRoutes/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4f7ab489.chunk.css.map": "/practicaRoutes/static/css/main.4f7ab489.chunk.css.map",
+    "static/js/2.513ec2f6.chunk.js.LICENSE.txt": "/practicaRoutes/static/js/2.513ec2f6.chunk.js.LICENSE.txt",
+    "static/media/carrousel-3.424560c4.jpg": "/practicaRoutes/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f8224c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.513ec2f6.chunk.js",
+    "static/css/main.4f7ab489.chunk.css",
+    "static/js/main.0999c73b.chunk.js"
+  ]
+}
